@@ -1,0 +1,2 @@
+This is for the first commit to Git training
+And this is a second change
